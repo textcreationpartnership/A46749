@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The information of Robert Jennison of Grays-Inn, Gent. delivered at the bar of the House of Commons, Tuesday the ninth day of November, in the year of our Lord, 1680, perused and signed to be printed, according to the order of the House of Commons, by me William Williams, Speaker.</title>
+            <author>Jenison, Robert, 1648-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46749</idno>
+            <idno type="STC">Wing J559</idno>
+            <idno type="STC">ESTC R4087</idno>
+            <idno type="EEBO-CITATION">12892985</idno>
+            <idno type="OCLC">ocm 12892985</idno>
+            <idno type="VID">95155</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95155)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 716:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The information of Robert Jennison of Grays-Inn, Gent. delivered at the bar of the House of Commons, Tuesday the ninth day of November, in the year of our Lord, 1680, perused and signed to be printed, according to the order of the House of Commons, by me William Williams, Speaker.</title>
+                  <author>Jenison, Robert, 1648-1688.</author>
+                  <author>Williams, William, Sir, 1634-1700.</author>
+               </titleStmt>
+               <extent>[3], 5-12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill, Thomas Newcomb, and Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:95155:1"/>
+            <p>I Appoint <hi>Thomas Newcomb,</hi> and <hi>Henry Hills,</hi> to Print this Informati<g ref="char:EOLhyphen"/>on, According to the Order of the HOUSE of COMMONS; And that no other Perſon preſume to Print the ſame.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Novemb.</hi> 10th 1680.</date>
+               </dateline>
+               <signed>Wi WILLIAMS, <hi>Speaker.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:95155:1"/>
+            <p>THE INFORMATION OF Robert Jenniſon Of <hi>GRAYS-INN,</hi> Gent. Delivered at the BAR of the HOUSE OF COMMONS, <hi>Tueſday</hi> the Ninth day of <hi>November,</hi> In the Year of our Lord, 1680.</p>
+            <p>
+               <hi>Peruſed and Signed to be Printed, According to the Order of the Houſe of Commons, BY ME William Williams,</hi> Speaker.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by the Aſſigns of <hi>John Bill, Thomas Newcomb,</hi> and <hi>Henry Hills,</hi> Printers to the Kings moſt Excellent Majeſty, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95155:2"/>
+            <pb n="5" facs="tcp:95155:2"/>
+            <head>THE INFORMATION OF Robert Jenniſon OF <hi>GRAYS-INN,</hi> Gent.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Informant ſaith, That about the beginning of the Year 1678. he hath heard Mr. <hi>Ireland,</hi> and Mr. <hi>Thomas Jen<g ref="char:EOLhyphen"/>niſon,</hi> both Jeſuits, Diſcourſe of a De<g ref="char:EOLhyphen"/>ſign by the Roman Catholicks to ob<g ref="char:EOLhyphen"/>tain a Liberty, or a Toleration, for the open Profeſſion of their Religion here in <hi>England.</hi> And the way he then heard them ſpeak of, was, by Col<g ref="char:EOLhyphen"/>lecting a round Sum of Money among their Party, and by Bribing the greateſt part of the then Parliament. This Informant hath likewiſe heard the two forenamed Perſons talk of the ſecuring the Duke of <hi>York's</hi> Succeſſion, which they told this Informant was to be done by granting our Commiſſions to thoſe of that Religion, to the end they might be ready to Riſe, upon the Death of the King. He hath alſo heard thoſe, with other Jeſuits <hi>(viz.) Blunden</hi> and <hi>Fenwick,</hi> Diſcourſe in General Terms, of the Neceſſity and Uſefulneſs to their Party, of altering the Government Eſta<g ref="char:EOLhyphen"/>bliſhed, and that the Roman Catholick Religion could ne<g ref="char:EOLhyphen"/>ver be ſettled in <hi>England</hi> till that were done, and that the preſent Government were brought to the French Model.</p>
+            <p>In the month of <hi>June</hi> in the ſame year, this Informant being at Mr. <hi>Ireland</hi>'s Chamber in <hi>Ruſſel-ſtreet, Covent-garden,</hi> and there hapning ſome Diſcourſe, That the Roman Ca<g ref="char:EOLhyphen"/>tholick Religion would ſuddenly come in, and be owned
+<pb n="6" facs="tcp:95155:3"/>in <hi>England,</hi> Mr. <hi>Ireland</hi> did then ſay, That there was onely One in the way, that hindred that Religion from Flou<g ref="char:EOLhyphen"/>riſhing in <hi>England</hi> again, and that it was an eaſie matter to Poyſon the King. That Sir <hi>George Wakeman</hi> might op<g ref="char:EOLhyphen"/>portunely and eaſily do it: And this Informant then de<g ref="char:EOLhyphen"/>manding if Sir <hi>George Wakeman</hi> was the King's Phyſician, Mr. <hi>Ireland</hi> did to that Queſtion reply, No, but that he was the Queen's, and thence might have an Opportunity to do it.</p>
+            <p>In <hi>Auguſt</hi> following, the ſame day this Informant came from <hi>Windſor,</hi> (which he hath reaſon to remember by very good Circumſtances) this Informant went to Mr. <hi>Ire<g ref="char:EOLhyphen"/>land's</hi> Chamber, where he found him pulling off his Boots upon the Frame of a Table: Who told this Informant, He was newly come by Poſt from <hi>Wolverhampton</hi> in <hi>Stafford<g ref="char:EOLhyphen"/>ſhire,</hi> and that this Informant's Relations there were well, and would have been glad to have ſeen this Informant there: who after a return of Thanks, and ſome congratula<g ref="char:EOLhyphen"/>tion upon his arrival, told Mr. <hi>Ireland</hi> he was newly come from <hi>Windſor.</hi> The ſaid <hi>Ireland</hi> thereupon enquiring what News from thence, and of the diverſion of the Court; the Informant made anſwer, He underſtood that his Majeſty took much delight in Crow-hawking and Fiſhing, but chiefly in the latter, which he uſed to follow early in the Morning, accompanied with a ſmall Retinue of two or three. Mr. <hi>Ireland</hi> preſently replyed, He were eaſily taken off, or removed. To which this Informant returned and made anſwer, God forbid. After ſome Pauſe, No, ſays he, I do not ſay 'tis lawful. Here hapned this Interruption: This Informant then asked Mr. <hi>Ireland,</hi> ſeeing he was newly come out of <hi>Staffordſhire,</hi> what his Aunt ſaid concerning a Letter ſent to her about two Months before, relating to the ſame ſum, or thereabouts, which this Informant had had in the mean time of him. Mr. <hi>Ireland</hi> did then make anſwer, as from her, That ſhe did not think fit to anſwer it; and further, That the old Gentlewoman was hard enough, and would hold her own. After this he drew down a Diſcourſe concerning Religion, which was ſhortly to be brought in, and preſſed this Informant by divers Arguments to be inſtrumental in it, urging how Meritorous it would be, and how much to the Glory of God: and thereupon
+<pb n="7" facs="tcp:95155:3"/>offered to cauſe the Twenty pound borrowed of him by this Informant, to be remitted, and forgiven him, if he would be Aſſiſting to the Taking off the King, and would be one of thoſe that would go to <hi>Windſor</hi> about it. But this Informant did anſwer, That he would not for Twenty times Twenty pound have any hand in the Death of the King. Whereupon the ſaid <hi>Ireland</hi> replyed, Will you do nothing to bring in the Catholick Religion? To which this Informant did ſay, That he did not believe it would ever come in by Blood. Upon which the ſaid <hi>Ireland</hi> replyed, What! would you not have Religion to Flouriſh in <hi>England</hi> again? Whereto this Informant anſwered, If it were done, if the King were taken off; ſo, and well; but this Informant ſaid he would have no hand in it. But the ſaid <hi>William Ireland</hi> not being ſa<g ref="char:EOLhyphen"/>tisfied with this Informant's Anſwers, purſued thus, Do you know any <hi>Iriſh</hi> men of our Religion, that are ſtout and cou<g ref="char:EOLhyphen"/>ragious? This Informant replyed, The <hi>Iriſh</hi> Gentlemen were commonly ſo, and did name Captain <hi>Levalin,</hi> Mr. <hi>Thomas Brahall,</hi> Mr. <hi>Karney,</hi> three <hi>Iriſh</hi> men, and Mr. <hi>James Wilſon,</hi> being all Gentlemen that lived in or about <hi>Grays-Inn,</hi> of whoſe Names (two of them at the leaſt) the ſaid <hi>Ireland</hi> took particular notice in Writing, to the beſt of this In<g ref="char:EOLhyphen"/>formant's remembrance. And this Informant did then tell the ſaid <hi>Ireland,</hi> That he believed no men of Eſtates would be concerned in that Affair, and that he himſelf was Heir to an Eſtate (his Brother being a Prieſt) and he underſtood that Captain <hi>Levalin</hi> was Heir to a very good Eſtate; and there<g ref="char:EOLhyphen"/>fore this Informant did believe he would have nothing to do in any ſuch matter, unleſs the Pique which he had to the King might move him to it. And this Informant ſaith, That after he had, upon the importunity of <hi>William Ireland,</hi> named unto him Captain <hi>Levalin,</hi> Mr. <hi>Karney,</hi> Mr. <hi>Brahall,</hi> and Mr. <hi>James Wilſon,</hi> to be ſtout and couragious Gentlemen, the ſaid <hi>William Ireland</hi> did ask and require this Informant to go down with the ſaid Gentlemen to <hi>Windſor,</hi> to be aſ<g ref="char:EOLhyphen"/>ſiſtant in the Taking off the King, which this Informant re<g ref="char:EOLhyphen"/>fuſed, ſaying, He would not have any hand in the Death of the King: ſaying, No men of Eſtates would engage therein, as this Informant believed. And the ſaid <hi>William Ireland</hi> did approve of the ſaid four perſons named as afore<g ref="char:EOLhyphen"/>ſaid,
+<pb n="8" facs="tcp:95155:4"/>by this Informant, as fit for the Deſign; and declared that he knew Mr. <hi>Levalin,</hi> and Mr. <hi>Karney,</hi> before this In<g ref="char:EOLhyphen"/>formant had named them. By the which this Informant did apprehend that he might have communicated with them of the ſaid Deſign for <hi>Windſor,</hi> before the nomination afore<g ref="char:EOLhyphen"/>ſaid. And he further ſaith, At the ſame time when he came from <hi>Windſor,</hi> Mr. <hi>William Ireland</hi> did ask this Informant for the Twenty pound lent unto this Informant upon Bond, although the ſame was not then due; and further ſaid, He wanted Fourſcore pounds, having then occaſion for that ſum, and this Informant did ſay, He would return what he owed him, aſſoon as he ſhould get into the North.</p>
+            <p>And this Informant further ſaith, That nigh two Months after the Muſtering the Forces upon <hi>Hounſlow-Heath,</hi> the aforenamed <hi>Tho. Jenniſon</hi> told this Informant, He had a mat<g ref="char:EOLhyphen"/>ter of great Conſequence to impart unto him: adding, That there was a Deſign on Foot, ſo laid, as it could not well be diſcovered, wherein the greateſt Catholicks in <hi>England</hi> were Embarqued; That the Queen and the Duke were in the De<g ref="char:EOLhyphen"/>ſign, and ſeveral Lords; by Name the Lord <hi>Bellaſis,</hi> the Lord <hi>Powis,</hi> the Lord <hi>Arundel</hi> of <hi>Warder;</hi> and the ſaid <hi>Tho<g ref="char:EOLhyphen"/>mas Jenniſon</hi> did ſay, That they had often attempted the Lord Treaſurer, and at the laſt had made him theirs: further ſaying, That it would be of great advantage to this Infor<g ref="char:EOLhyphen"/>mant to Embarque with them, and that he could not be in greater danger than they: and that he would acquaint this Informant with more particulars after he had received the Sacrament of Secrecy, which he engaged this Informant to do upon the next Holiday, at Sir <hi>Philip Tyrrwhits</hi> houſe in <hi>Bloomsbury.</hi> But this Informant did not receive the Sacra<g ref="char:EOLhyphen"/>ment upon any account whatſoever about the Plot. And this Informant then wiſhing he had had a Commiſſion in the new Levies, the ſaid <hi>Thomas Jenniſon</hi> replyed, That he would get him a Commiſſion from the Duke of <hi>York;</hi> whereunto this Informant returning anſwer, How could that be, ſeeing all the Commiſſions are now granted out, and full? The ſaid <hi>Thomas Jenniſon</hi> did then in plain Words tell this Infor<g ref="char:EOLhyphen"/>mant, That there was a new Army to be raiſed for to bring in Religion, but would acquaint this Informant with par<g ref="char:EOLhyphen"/>ticulars hereafter, and therefore deſired to know of this In<g ref="char:EOLhyphen"/>formant
+<pb n="9" facs="tcp:95155:4"/>how he might ſend him a Commiſſion with ſafety, he knowing this Informant intended ſuddenly to go into the Biſhoprick of <hi>Durham:</hi> and as this Informant remem<g ref="char:EOLhyphen"/>bers, this Commiſſion was not to be ſent until the Taking off the King was effected; whereat this Informant was ſurpri<g ref="char:EOLhyphen"/>ſed; but <hi>Thomas Jenniſon</hi> did ſay, He could tell him Things more at large, after his receiving the Sacrament of Secre<g ref="char:EOLhyphen"/>cy. And this Informant further ſaith, That upon the day that this Informant received the Twenty pound lent unto him, he went with the ſaid <hi>Thomas Jenniſon</hi> to Mr. <hi>William Harcourt's</hi> Chamber in <hi>Dukes-ſtreet,</hi> to return Thanks for the Obligation in conſenting to lend the Money. Mr. <hi>Thomas Jenniſon</hi> falling upon that common Topick, that Religion would ſuddenly come in, he did expreſs himſelf as Dr. <hi>Oates</hi> hath it in his Narrative <hi>(viz.)</hi> If C. R. would not be R. C. he ſhould not long be C. R. which he interpre<g ref="char:EOLhyphen"/>ted, <hi>Si Carolus Rex non eſſet Rex Catholicus, non foret diu Caro<g ref="char:EOLhyphen"/>lus Rex.;</hi> which was not the firſt time this Informant heard that quibling expreſſion from the ſaid <hi>Thomas Jenniſon,</hi> who further then added upon Diſcourſe, That the King being Excommunicated, and Depoſed; he was no longer King, and it were no ſin, or no great ſin at leaſt, to Take him off; and if it ſhould be diſcovered who did it, perhaps two or three might die for it bot denying the Fact. This Informant ſuppoſes his meaning to have been, denying themſelves to be Papiſts that committed ſo Barbarous and Villanous a Fact, the Matter would ſoon blow over (becauſe the Duke was to Succeed.) And this Informant further ſaith, Being with the ſaid <hi>Thomas Jenniſon</hi> and another Gentleman about the latter end of <hi>April,</hi> or beginning of <hi>May</hi> 1678. (whoſe name he remembreth not) in the aforeſaid <hi>Ireland</hi>'s Cham<g ref="char:EOLhyphen"/>ber, there came one in, who after ſome private diſcourſe with Mr. <hi>Ireland</hi> departed; and after he was gone, the ſaid <hi>Thomas Jenniſon</hi> told this Informant 'twas one Mr. <hi>Oates,</hi> who had been a Parſon, but was come over to them, and that he was a brisk jolly Man, well worth this Infor<g ref="char:EOLhyphen"/>mant's acquaintance. And this Informant very well remem<g ref="char:EOLhyphen"/>bers, there hapning ſome time after, a Diſcourſe about the ſaid Parſon that was lately come over, the ſaid <hi>Thomas Jen<g ref="char:EOLhyphen"/>niſon</hi> did ſay, That that Parſon was engaged in the Deſign;
+<pb n="10" facs="tcp:95155:5"/>whereto this Informant objected, That a reconciled Ene<g ref="char:EOLhyphen"/>my ought no more to be Truſted, than an open Foe. But the ſaid <hi>Thomas Jenniſon</hi> anſwered, They were ſure enough of him, and that being once reconciled, they were the more zealous and truſty; to which opinion this Informant ſubmit<g ref="char:EOLhyphen"/>ted, inſtancing Dr. <hi>Godwin,</hi> and Dr. <hi>Bayley,</hi> as being zealous Catholicks, although they were Proteſtant Converts.</p>
+            <p>And this Informant further ſaith, That he was in <hi>Shinſield</hi> Pariſh near <hi>Reading</hi> in <hi>Berks,</hi> about the time of <hi>Coleman</hi>'s Tri<g ref="char:EOLhyphen"/>al, where he met with Mr. <hi>Cuffell,</hi> a Romiſh Prieſt and Je<g ref="char:EOLhyphen"/>ſuit, who then much blamed the ſaid <hi>Coleman,</hi> ſaying, He was infatuated to ſuffer his own Papers to be taken upon the Diſ<g ref="char:EOLhyphen"/>covery of the Plot, when as he had given Notice to Mr. <hi>Har<g ref="char:EOLhyphen"/>court,</hi> Mr. <hi>Ireland,</hi> and the reſt of the Jeſuits, to Burn or Se<g ref="char:EOLhyphen"/>cure theirs. And he very well remembers, That amongſt other Diſcourſe, this Informant ſpoke againſt the Opinion that <hi>Bellarmine, Mariana,</hi> and <hi>Suarez</hi> maintained, touching the Power of the Pope, to Depoſe Kings; upon which the ſaid <hi>Cuffel</hi> mentioned a Sentence, which, he ſaid, <hi>Bellarmine</hi> did draw out of the Scripture for that Opinion, which was, <hi>Quod Papa habeat eandem poteſtatem ſuper Reges, quam Jehojada habuit ſuper Athaliam.</hi> And this Informant further ſaith, That Ma<g ref="char:EOLhyphen"/>dam <hi>Hall,</hi> his Siſter, being preſent at the ſaid <hi>Cuffel</hi>'s other Diſ<g ref="char:EOLhyphen"/>courſe, concerning <hi>Coleman</hi>'s infatuation, in ſending Notice, as before, <hi>&amp;c.</hi> upon this Informants reflecting in the abſence of <hi>Cuffell, viz.</hi> That by his ſide-words he ſeemed manifeſt<g ref="char:EOLhyphen"/>ly to own a Plot, his Siſter did then ſay, She very much feared That they had ſome Bloody Deſign, for that ſhe had heard the ſaid <hi>Cuffell,</hi> ſome little time before the breaking out of the Plot, upon a Diſcourſe, That Religion would ſhortly come into <hi>England,</hi> ſay theſe Words, <hi>viz.</hi> There muſt be ſome blood ſhed, before Religion cou'd be introduced; but ſhe told him, She did not believe it ought to come in that way.</p>
+            <p>This Informant further ſaith, That uſually viſiting Ma<g ref="char:EOLhyphen"/>dam <hi>Harewell,</hi> his Aunt, and her Daughter, at their Lodgings in <hi>Kings-ſtreet Covent-Garden,</hi> at the leaſt three or four times a Week, which was, as this Informant certainly remembers, before the Trial of the five Jeſuits Executed for the Execrable Plot, he had the opportunity of Seeing, Reading, and Tranſcribing ſeveral Papers and Letters from his Brother
+<pb n="11" facs="tcp:95155:5"/>Mr. <hi>Thomas Jenniſon,</hi> all tending to invalidate Mr. <hi>Oates</hi> his Teſtimony, the particular Way he uſed doth not occur to his Memory. But this Informant remembers he told Madam <hi>Harewell</hi> and her Daughter, That he thought thoſe Argu<g ref="char:EOLhyphen"/>ments would do his ſaid Brother but little good for his De<g ref="char:EOLhyphen"/>fence, unleſs he had better behind; but there were Two Paſſages in the ſaid Papers or Letters, ſome whereof were Subſcribed to one Dr. — or Sir — wherein the ſaid <hi>Tho<g ref="char:EOLhyphen"/>mas Jenniſon</hi> thus Expreſſed himſelf, <hi>Why are our Friends diſguſted? I will not ſtir one hairs breadth.</hi> By which Expreſſion, this Informant did believe, That ſome of the Plotters were Afraid and Jealous, leſt the ſaid <hi>Thomas Jenniſon</hi> ſhould Detect their Plot, and therefore by thoſe Words he aſſured them, that he would not recede one hairs breadth from his Reſolu<g ref="char:EOLhyphen"/>tion of Secrecy. And this Informant ſaith, That he then communicating his ſaid Reflection and Obſervation to the ſaid Ladies, they were at a ſtand, not knowing how to ex<g ref="char:EOLhyphen"/>cuſe his Meaning. The ſecond Paſſage was, about what the ſaid <hi>Thomas Jenniſon</hi> ſuppoſed himſelf to have ſpoke to the Lady <hi>Tyrrwhit,</hi> upon his being Apprehended at her Lodg<g ref="char:EOLhyphen"/>ings in <hi>Bloomsbury,</hi> whereof he ſeemed very ſolicitous to be aſcertained in the aforementioned Papers, and that by ſome cunning third hand. <hi>For, I believe,</hi> ſaid he, <hi>I ſaid, I did not know Mr.</hi> Oates; by which this Informant perceived his Meaning to be, That if he had then, <hi>viz.</hi> upon his Ap<g ref="char:EOLhyphen"/>prehenſion, denied his Knowledge of Mr. <hi>Oates</hi> to the Lady <hi>Tyrrwhit</hi> (who by the way was his Proſelyte) he was re<g ref="char:EOLhyphen"/>ſolved to perſiſt in the ſaid Denial to the laſt; though on the other hand this Informant doth certainly know the ſaid <hi>Thomas Jenniſon</hi> was well acquainted with the ſaid Mr. <hi>Oates,</hi> as appeared by Two remarkable Inſtances in the former Depoſitions of this Informant.</p>
+            <p>This Informant likewiſe ſaith, That Mrs. <hi>Ann Ireland</hi> coming to this Informant's Chamber to Chide him, for that ſhe heard he was about to Diſcover ſome Matters touching the Plot: She, to diſſuade him, haſtily ſaid, On my Conſci<g ref="char:EOLhyphen"/>ence I think you'll bring your ſelf into the Plot, and by your Diſcovery will own, That there was a Plot, and, That you was Engaged in it, and ſo Diſgrace your ſelf; though ſhe probably knew this Informant was no further
+<pb n="12" facs="tcp:95155:6" rendition="simple:additions"/>concerned, than in what was imparted in that Diſcourſe he had with her Brother (ſhe being then preſent) after this Informant's arrival from <hi>Windſor.</hi> And Mrs. <hi>Ann Ireland</hi> fur<g ref="char:EOLhyphen"/>ther ſaid then, That this Informant was worſe than Dr. <hi>Oates;</hi> for that Doctor <hi>Oates</hi> did follow the Plot, and make an early Diſcovery; but, that this Informant came in too late. To which this Informant replied, That what he had to ſay, he remem<g ref="char:EOLhyphen"/>bred from the very firſt Diſcovery, and before, or at the leaſt within three or four Months of the Breaking out of the Diſ<g ref="char:EOLhyphen"/>covery of the Plot: and that he would not offer to Depoſe any thing upon Oath, but what he could certainly charge his Memory with, and ſo bid her not trouble her ſelf.</p>
+            <p>This Informant alſo very well remembers, That about the latter end of <hi>September,</hi> or the beginning of <hi>October,</hi> 1678. when he was at his Father's Houſe in the Biſhoprick of <hi>Dur<g ref="char:EOLhyphen"/>ham,</hi> Mr. <hi>Ralph Jenniſon,</hi> a Jeſuit, came to ſee this Infor<g ref="char:EOLhyphen"/>mant; who before they parted, asked the ſaid Mr. <hi>Ralph Jenniſon,</hi> how he might conveniently ſend Twenty pound to Mr. <hi>Ireland,</hi> which this Informant ſaid he did owe to him. Mr. <hi>Ralph Jenniſon</hi> replied (which Directions this Informant did then take in a little Journal) You may ſend a Letter with your Bill to Mr. <hi>Ireland,</hi> and Encloſe them in another Letter to Mr. <hi>Oates,</hi> at his Lodgings at Mr. <hi>Grigſons</hi> in <hi>Drury-lane,</hi> and your Letter or Moneys will come ſafe that way to Mr <hi>Ireland.</hi>
+            </p>
+            <closer>
+               <signed>Robert Jenniſon.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Jurat. nono die Novembris, coram nobis,</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>William Pulteney.</item>
+                        <item>Thomas Stringer.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
